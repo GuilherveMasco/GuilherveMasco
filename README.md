@@ -1,7 +1,7 @@
 ### Hello there, I'm Vasco 👋
 
 ## I'm an Computer Scientist Student!
-- 🔭 Working as Technical Support Analyst at BLZ
+- 🔭 Working as Technical Support Analyst at BLZ ISP
 - 🌱 Currently studying Computer Science at Federal Technological University of Paraná
 - 📫 My e-mail: guilhermevasco08@gmail.com
 
