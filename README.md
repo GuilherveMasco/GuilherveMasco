@@ -1,4 +1,4 @@
-### Hi there, I'm Vasco 👋
+### Hello there, I'm Vasco 👋
 
 ## I'm an Computer Scientist Student!
 - 🔭 Working as Technical Support Analyst at BLZ
