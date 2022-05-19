@@ -15,6 +15,6 @@
 
 ### :busts_in_silhouette: Social Media
 
-  &emsp;[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/guilherme-vasco-6518ba175/)&emsp;
-  [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=black)](https://github.com/GuilherveMasco)&emsp;
-  ![](https://komarev.com/ghpvc/?username=GuilherveMasco&color=1c1c1c&style=plastic&label=views)
+  &emsp;[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-vasco-6518ba175/)&emsp;
+  [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilherveMasco)&emsp;
+  ![](https://komarev.com/ghpvc/?username=GuilherveMasco&color=1c1c1c&style=for-the-badge&label=views)
