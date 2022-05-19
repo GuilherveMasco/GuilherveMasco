@@ -9,7 +9,7 @@
 <p align="center">
     <a href="https://github.com/GuilherveMasco/">
         <img height="150em" src="https://github-readme-stats-jha-vineet69.vercel.app/api?username=GuilherveMasco&hide=stars&count_private=true&show_icons=true&theme=codeSTACKr" />
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilherveMasco&count_private=true&hide=smalltalk&theme=codeSTACKrt&layout=compact" /> 
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilherveMasco&count_private=true&hide=smalltalk&theme=codeSTACKr&layout=compact" /> 
     </a>
 </p>
 
