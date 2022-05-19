@@ -8,8 +8,8 @@
 ### 🏆 Github Stats:
 <p align="center">
     <a href="https://github.com/GuilherveMasco/">
-        <img height="150em" src="https://github-readme-stats-jha-vineet69.vercel.app/api?username=GuilherveMasco&hide=stars&count_private=true&show_icons=true&theme=material-palenight" />
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilherveMasco&count_private=true&hide=smalltalk&theme=material-palenight&layout=compact" /> 
+        <img height="150em" src="https://github-readme-stats-jha-vineet69.vercel.app/api?username=GuilherveMasco&hide=stars&count_private=true&show_icons=true&theme=gruvbox_light" />
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilherveMasco&count_private=true&hide=smalltalk&theme=gruvbox_light&layout=compact" /> 
     </a>
 </p>
 
