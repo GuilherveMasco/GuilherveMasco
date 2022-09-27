@@ -1,7 +1,7 @@
 ### Hello there, I'm Guilherme Vasco 🤙
 
-## I'm a Computer Scientist Student!
-- 👔 Working as Technical Support Analyst at BLZ ISP
+## I'm a Computer Scientist Student and Software Developer!
+- 👔 Working as Junior Software Developer at Agroflux
 - 🎓 Currently studying Computer Science at Federal Technological University of Paraná
 - 📫 My e-mail: guilhermevasco08@gmail.com
 
