@@ -1,7 +1,7 @@
 ### Hello there, I'm Guilherme Vasco 🤙
 
-## I'm a Computer Scientist Student and Backend Developer!
-- 👔 Software Developer
+## I'm a Computer Scientist Student and Software Developer!
+- 👔 Software Developer (TS, JS, Python, C)
 - 🎓 Currently studying Computer Science at Federal Technological University of Paraná
 - 📫 My e-mail: guilhermevasco08@gmail.com
 
